@@ -32,8 +32,8 @@ _A desktop view of the orderm summary card_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/salutDami/order-summary-component)
-- Live Site URL: [Add live site URL here](https://salutdami.github.io/order-summary-component/)
+- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/order-summary-component)
+- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/order-summary-component/)
 
 ## My process
 
