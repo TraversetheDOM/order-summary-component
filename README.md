@@ -28,12 +28,12 @@ _A desktop view of the orderm summary card_
 
 ![Mobile View ](./screenshots/Mobile.jpeg)
 
-- A desktop view of the orderm summary card\*
+- A desktop view of the order summary card\*
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/order-summary-component)
-- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/order-summary-component/)
+- Solution URL: [Add solution URL here](https://github.com/stephenikuomola/order-summary-component)
+- Live Site URL: [Add live site URL here](https://stephenikuomola.github.io/order-summary-component/)
 
 ## My process
 
@@ -47,6 +47,6 @@ _A desktop view of the orderm summary card_
 
 ## Author
 
-- Twitter - [@\_salutDami](https://www.twitter.com/_salutDami)
+- Twitter - [@\_salutDami](https://www.twitter.com/stephenikuomola)
 - Linkedin- [Ikuomola Stephen](https://www.linkedin.com/in/ikuomola-stephen/)
-- Frontend Mentor - [@salutDami](https://www.frontendmentor.io/profile/salutDami)
+- Frontend Mentor - [@salutDami](https://www.frontendmentor.io/profile/stephenikuomola)
